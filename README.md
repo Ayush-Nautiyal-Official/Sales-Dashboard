@@ -6,13 +6,13 @@ The dashboard provides an interactive view of sales performance across regions, 
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/Dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
-![Sales Dashboard](images/Dashboard1.png)
+![Sales Dashboard](Dashboard1.png)
 
-![Sales Dashboard](images/Dashboard2.png)
+![Sales Dashboard](Dashboard2.png)
 
-![Sales Dashboard](images/Dashboard3.png)
+![Sales Dashboard](Dashboard3.png)
 
 ## Project Overview
 
