@@ -6,21 +6,7 @@ The dashboard provides an interactive view of sales performance across regions, 
 
 ## Dashboard Preview
 
-### Main Dashboard
-
 ![Sales Dashboard](Dashboard.png)
-
-### Regional & Sales Analysis
-
-![Regional Analysis](Dashboard1.png)
-
-### Category & Customer Analysis
-
-![Category Analysis](Dashboard2.png)
-
-### Additional Dashboard Views
-
-![Dashboard Analysis](Dashboard3.png)
 
 ## Project Overview
 
