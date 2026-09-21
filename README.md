@@ -6,8 +6,6 @@ The dashboard provides an interactive view of sales performance across regions, 
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![Sales Dashboard](images/Dashboard.png)
 
 ![Sales Dashboard](images/Dashboard1.png)
@@ -15,6 +13,7 @@ The dashboard provides an interactive view of sales performance across regions, 
 ![Sales Dashboard](images/Dashboard2.png)
 
 ![Sales Dashboard](images/Dashboard3.png)
+
 ## Project Overview
 
 The objective of this project is to analyze supermarket sales data and create an interactive dashboard that helps users understand sales performance and identify important business trends.
