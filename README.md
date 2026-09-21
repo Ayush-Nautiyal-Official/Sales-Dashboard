@@ -6,10 +6,10 @@ The dashboard provides an interactive view of sales performance across regions, 
 
 ## Dashboard Preview
 
-![Superstore Sales Dashboard](Dashboard.png,)
-![Superstore Sales Dashboard](Dashboard1.png,)
-![Superstore Sales Dashboard](Dashboard2.png,)
-![Superstore Sales Dashboard](Dashboard3.png,)
+![Superstore Sales Dashboard](Dashboard.png)
+![Superstore Sales Dashboard](Dashboard1.png)
+![Superstore Sales Dashboard](Dashboard2.png)
+![Superstore Sales Dashboard](Dashboard3.png)
 
 ## Project Overview
 
